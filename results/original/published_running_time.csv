@@ -1,0 +1,13 @@
+,Running time (min)
+Naive,0.2
+Naive2,2.9
+sNaive,0.3
+SES,8.1
+Holt,13.3
+Damped,15.3
+Com,33.2
+ARIMA,3030.9
+Theta,12.7
+MLP,1484.37
+RNN,64857.1
+260,25.0

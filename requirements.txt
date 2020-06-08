@@ -1,0 +1,4 @@
+sktime==0.4.0
+xlrd
+xgboost
+Orange3
